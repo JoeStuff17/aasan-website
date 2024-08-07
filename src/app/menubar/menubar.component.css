@@ -1,0 +1,9 @@
+.menu-items p{
+    padding: 0px 15px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.menuContainer{
+    background-image: linear-gradient(to right, #09327f, #06183b);
+}

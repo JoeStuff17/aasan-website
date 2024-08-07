@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css?family=Exo:400,700'); */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    padding:0;
+    margin:0;
+}
+
+body{
+    /* font-family: 'Exo', sans-serif; */
+    font-family:"Noto Sans", sans-serif;
+}
+
+.crop-width{
+    max-width:1400px;
+    margin-left:auto;
+    margin-right:auto;
+}
